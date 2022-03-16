@@ -1,0 +1,33 @@
+{
+    "name": "funda",
+    "displayName": "Funda Extension Pack",
+    "description": "Suggested vscode extensions for working with frontend at funda",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "repository": "https://github.com/fundarealestate/vscode-config",
+    "icon": "icon.jpg",
+    "license": "CC0-1.0",
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "bradlc.vscode-tailwindcss", 
+        "christian-kohler.npm-intellisense", 
+        "christian-kohler.path-intellisense", 
+        "dbaeumer.vscode-eslint", 
+        "eamodio.gitlens", 
+        "EditorConfig.EditorConfig", 
+        "esbenp.prettier-vscode", 
+        "formulahendry.auto-close-tag", 
+        "jock.svg", 
+        "johnsoncodehk.volar", 
+        "philsinatra.nested-comments", 
+        "sleistner.vscode-fileutils",  
+        "Tobermory.es6-string-html", 
+        "vunguyentuan.vscode-postcss", 
+        "wix.vscode-import-cost", 
+        "yzhang.markdown-all-in-one"
+    ]
+}
