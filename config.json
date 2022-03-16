@@ -1,0 +1,44 @@
+{
+    "emmet.includeLanguages": {
+        "vue-html": "html",
+        "razor": "html"
+    },
+    "javascript.format.enable": true,
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single",
+    "eslint.alwaysShowStatus": true,
+    "eslint.validate": ["html", "vue", "javascript", "javascriptreact", "typescript", "typescriptreact"],
+    "eslint.options": {
+      "extensions": [ ".html", ".js", ".vue", ".jsx", ".ts", ".tsx" ]
+    },
+    "files.associations": {
+        "*.vue": "vue",
+        "*.cshtml": "html"
+    },
+    "files.exclude": {
+        "USE_GITIGNORE": true
+    },
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "telemetry.telemetryLevel": "off",
+    "explorer.confirmDragAndDrop": false,
+    "search.exclude": {
+        "**/.git": true,
+        "**/.github": true,
+        "**/.nuxt": true,
+        "**/.output": true,
+        "**/.pnpm": true,
+        "**/.vscode": true,
+        "**/.yarn": true,
+        "**/dist/**": true,
+        "**/logs": true,
+        "**/node_modules": true,
+        "**/out/**": true,
+        "**/package-lock.json": true,
+        "**/pnpm-lock.yaml": true,
+        "**/tmp": true,
+        "**/yarn.lock": true
+    }
+}
