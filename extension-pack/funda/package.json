@@ -1,38 +1,39 @@
 {
-    "name": "funda",
-    "displayName": "Funda Extensions Pack",
-    "description": "Suggested vscode extensions for working with frontend at funda",
-    "version": "1.1.0",
-    "publisher": "jpsc",
-    "author": {
-        "name": "jpsc"
-    },
-    "license:": "MIT",
-    "engines": {
-        "vscode": "^1.65.0"
-    },
-    "repository": "https://github.com/fundarealestate/vscode-config",
-    "icon": "icon.jpg",
-    "license": "CC0-1.0",
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [ 
-        "bradlc.vscode-tailwindcss", 
-        "christian-kohler.npm-intellisense", 
-        "christian-kohler.path-intellisense", 
-        "dbaeumer.vscode-eslint", 
-        "eamodio.gitlens", 
-        "EditorConfig.EditorConfig", 
-        "esbenp.prettier-vscode", 
-        "formulahendry.auto-close-tag", 
-        "jock.svg", 
-        "octref.vetur", 
-        "philsinatra.nested-comments", 
-        "sleistner.vscode-fileutils",  
-        "Tobermory.es6-string-html", 
-        "vunguyentuan.vscode-postcss", 
-        "wix.vscode-import-cost", 
-        "yzhang.markdown-all-in-one"
-    ]
+  "name": "funda",
+  "displayName": "Funda Extensions Pack",
+  "description": "Suggested vscode extensions for working with frontend at funda",
+  "version": "1.1.0",
+  "publisher": "jpsc",
+  "author": {
+    "name": "jpsc"
+  },
+  "license:": "MIT",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "repository": "https://github.com/fundarealestate/vscode-config",
+  "icon": "icon.jpg",
+  "license": "CC0-1.0",
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "bradlc.vscode-tailwindcss",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "jock.svg",
+    "octref.vetur",
+    "philsinatra.nested-comments",
+    "sleistner.vscode-fileutils",
+    "Tobermory.es6-string-html",
+    "vunguyentuan.vscode-postcss",
+    "wix.vscode-import-cost",
+    "yzhang.markdown-all-in-one",
+    "firsttris.vscode-jest-runner"
+  ]
 }
