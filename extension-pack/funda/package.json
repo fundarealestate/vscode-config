@@ -2,7 +2,7 @@
     "name": "funda",
     "displayName": "Funda Extensions Pack",
     "description": "Suggested vscode extensions for working with frontend at funda",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "publisher": "jpsc",
     "author": {
         "name": "jpsc"
