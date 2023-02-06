@@ -9,7 +9,7 @@
     },
     "license:": "MIT",
     "engines": {
-        "vscode": "^1.65.0"
+        "vscode": "^1.75.0"
     },
     "repository": "https://github.com/fundarealestate/vscode-config",
     "icon": "icon.jpg",
@@ -33,6 +33,9 @@
         "Tobermory.es6-string-html", 
         "vunguyentuan.vscode-postcss", 
         "wix.vscode-import-cost", 
-        "yzhang.markdown-all-in-one"
+        "yzhang.markdown-all-in-one",
+        "ziyasal.vscode-open-in-github",
+        "nhoizey.gremlins",
+        "mattpocock.ts-error-translator"
     ]
 }
