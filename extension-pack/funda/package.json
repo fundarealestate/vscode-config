@@ -2,40 +2,43 @@
     "name": "funda",
     "displayName": "Funda Extensions Pack",
     "description": "Suggested vscode extensions for working with frontend at funda",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "publisher": "jpsc",
     "author": {
         "name": "jpsc"
     },
     "license:": "MIT",
     "engines": {
-        "vscode": "^1.75.0"
+        "vscode": "^1.96.0"
     },
     "repository": "https://github.com/fundarealestate/vscode-config",
     "icon": "icon.jpg",
-    "license": "CC0-1.0",
     "categories": [
         "Extension Packs"
     ],
     "extensionPack": [ 
+        "antfu.goto-alias",
         "bradlc.vscode-tailwindcss", 
         "christian-kohler.npm-intellisense", 
-        "christian-kohler.path-intellisense", 
+        "christian-kohler.path-intellisense",
         "dbaeumer.vscode-eslint", 
         "eamodio.gitlens", 
-        "EditorConfig.EditorConfig", 
-        "esbenp.prettier-vscode", 
+        "EditorConfig.EditorConfig",
         "formulahendry.auto-close-tag", 
-        "jock.svg", 
-        "octref.vetur", 
+        "github.vscode-github-actions",
+        "github.vscode-pull-request-github",
+        "hashicorp.terraform",
+        "jock.svg",
+        "mikestead.dotenv",
+        "ms-azuretools.vscode-docker",
+        "nhoizey.gremlins",
         "philsinatra.nested-comments", 
         "sleistner.vscode-fileutils",  
         "Tobermory.es6-string-html", 
+        "vue.volar",
         "vunguyentuan.vscode-postcss", 
         "wix.vscode-import-cost", 
         "yzhang.markdown-all-in-one",
-        "ziyasal.vscode-open-in-github",
-        "nhoizey.gremlins",
-        "mattpocock.ts-error-translator"
+        "ziyasal.vscode-open-in-github"
     ]
 }
